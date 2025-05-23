@@ -135,65 +135,65 @@ Authorization: Bearer <token>
 ### POST /register
 
 #### Thunder Client Result
-![registerThunderClient](registerThunderClient.png)
+![registerThunderClient](API_TEST_PHOTOS/registerThunderClient.png)
 
 #### MongoDB Result
-![registerMongoDb](registerMongoDb.png)
+![registerMongoDb](API_TEST_PHOTOS/registerMongoDb.png)
 
 ### POST /login
 
 #### Thunder Client Result
-![loginThunderClient](loginThunderClient.png)
+![loginThunderClient](API_TEST_PHOTOS/loginThunderClient.png)
 
 ### GET /products
 
 #### Thunder Client Result
-![getProductsThunderClient](getProductsThunderClient.png)
+![getProductsThunderClient](API_TEST_PHOTOS/getProductsThunderClient.png)
 
 #### MongoDB Result
-![getProductsMongoBD](getProductsMongoBD.png)
+![getProductsMongoBD](API_TEST_PHOTOS/getProductsMongoBD.png)
 
 ### GET /products/:id
 
 #### Thunder Client Result
-![getProductByIdThunderClient](getProductByIdThunderClient.png)
+![getProductByIdThunderClient](API_TEST_PHOTOS/getProductByIdThunderClient.png)
 
 ### POST /cart
 
 #### Thunder Client Result with and without token
-![addToCartThunderClient](addToCartThunderClient.png)
+![addToCartThunderClient](API_TEST_PHOTOS/addToCartThunderClient.png)
 
-![addToCartThunderClient1](addToCartThunderClient1.png)
+![addToCartThunderClient1](API_TEST_PHOTOS/addToCartThunderClient1.png)
 
-![addToCartThunderClientWithoutToken](addToCartThunderClientWithoutToken.png)
+![addToCartThunderClientWithoutToken](API_TEST_PHOTOS/addToCartThunderClientWithoutToken.png)
 
 #### MongoDB Result
 
-![addToCartMongoDB](addToCartMongoDB.png)
+![addToCartMongoDB](API_TEST_PHOTOS/addToCartMongoDB.png)
 
 ### PUT /cart/:productId
 
 #### Thunder Client Result with and without token
-![updateCartItemQuantity](updateCartItemQuantity.png)
+![updateCartItemQuantity](API_TEST_PHOTOS/updateCartItemQuantity.png)
 
-![updateCartItemQuantity1](updateCartItemQuantity1.png)
+![updateCartItemQuantity1](API_TEST_PHOTOS/updateCartItemQuantity1.png)
 
-![updateCartItemQuantityWithoutToken](updateCartItemQuantityWithoutToken.png)
+![updateCartItemQuantityWithoutToken](API_TEST_PHOTOS/updateCartItemQuantityWithoutToken.png)
 
 #### MongoDB Result
 
-![updateCartItemQuantityMongoBD](updateCartItemQuantityMongoBD.png)
+![updateCartItemQuantityMongoBD](API_TEST_PHOTOS/updateCartItemQuantityMongoBD.png)
 
 ### DELETE /cart/:productId
 
 #### Thunder Client Result with and without token
-![deleteCartItem](deleteCartItem.png)
+![deleteCartItem](API_TEST_PHOTOS/deleteCartItem.png)
 
-![deleteCartItemWithoutToken](deleteCartItemWithoutToken.png)
+![deleteCartItemWithoutToken](API_TEST_PHOTOS/deleteCartItemWithoutToken.png)
 
 #### MongoDB Result
 
-![deleteCartItemMongoDB](deleteCartItemMongoDB.png)
+![deleteCartItemMongoDB](API_TEST_PHOTOS/deleteCartItemMongoDB.png)
 
 ---
 
@@ -214,5 +214,5 @@ This project is licensed under the **MIT License**.
 ## ✍️ Author
 
 Made with 💻 by Rohit Varma Datla
-Gmail: [visaal1582892@gmail.com](visaal1582892@gmail.com)
-Github: [visaal1582892](https://github.com/visaal1582892)
+Gmail: [visaal1582892@gmail.com](API_TEST_PHOTOS/visaal1582892@gmail.com)
+Github: [visaal1582892](API_TEST_PHOTOS/https://github.com/visaal1582892)
