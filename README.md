@@ -140,6 +140,61 @@ Authorization: Bearer <token>
 #### MongoDB Result
 ![registerMongoDb](registerMongoDb.png)
 
+### POST /login
+
+#### Thunder Client Result
+![loginThunderClient](loginThunderClient.png)
+
+### GET /products
+
+#### Thunder Client Result
+![getProductsThunderClient](getProductsThunderClient.png)
+
+#### MongoDB Result
+![getProductsMongoBD](getProductsMongoBD.png)
+
+### GET /products/:id
+
+#### Thunder Client Result
+![getProductByIdThunderClient](getProductByIdThunderClient.png)
+
+### POST /cart
+
+#### Thunder Client Result with and without token
+![addToCartThunderClient](addToCartThunderClient.png)
+
+![addToCartThunderClient1](addToCartThunderClient1.png)
+
+![addToCartThunderClientWithoutToken](addToCartThunderClientWithoutToken.png)
+
+#### MongoDB Result
+
+![addToCartMongoDB](addToCartMongoDB.png)
+
+### PUT /cart/:productId
+
+#### Thunder Client Result with and without token
+![updateCartItemQuantity](updateCartItemQuantity.png)
+
+![updateCartItemQuantity1](updateCartItemQuantity1.png)
+
+![updateCartItemQuantityWithoutToken](updateCartItemQuantityWithoutToken.png)
+
+#### MongoDB Result
+
+![updateCartItemQuantityMongoBD](updateCartItemQuantityMongoBD.png)
+
+### DELETE /cart/:productId
+
+#### Thunder Client Result with and without token
+![deleteCartItem](deleteCartItem.png)
+
+![deleteCartItemWithoutToken](deleteCartItemWithoutToken.png)
+
+#### MongoDB Result
+
+![deleteCartItemMongoDB](deleteCartItemMongoDB.png)
+
 ---
 
 ## ⚠️ Notes
@@ -158,16 +213,6 @@ This project is licensed under the **MIT License**.
 
 ## ✍️ Author
 
-Made with 💻 by [Your Name](https://github.com/yourusername)
-
-```
-
-Let me know if you'd like:
-- Dummy data description
-- Postman collection
-- Docker support
-- `.env`-based configuration
-- Instructions for deployment on services like Railway, Render, or Vercel backend
-
-I can add any of those as well.
-```
+Made with 💻 by Rohit Varma Datla
+Gmail: [visaal1582892@gmail.com](visaal1582892@gmail.com)
+Github: [visaal1582892](https://github.com/visaal1582892)
