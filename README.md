@@ -4,6 +4,8 @@
 
 This is the backend server for **Shoppy Globe**, a mock e-commerce platform. It provides RESTful APIs for user authentication, product listing, and cart management. This project uses **Node.js**, **Express**, **MongoDB**, and **JWT** for secure access.
 
+[Project Git Repo](https://github.com/visaal1582892/shoppy_globe_backend)
+
 ---
 
 ## 🚀 Features
@@ -95,7 +97,7 @@ On startup:
 JWT token must be provided in the `Authorization` header for protected routes:
 
 ```
-Authorization: Bearer <token>
+Authorization: JWT <token>
 ```
 
 ---
@@ -215,4 +217,4 @@ This project is licensed under the **MIT License**.
 
 Made with 💻 by Rohit Varma Datla, 
 Gmail: visaal1582892@gmail.com,
-Github: [visaal1582892](API_TEST_PHOTOS/https://github.com/visaal1582892)
+Github: [visaal1582892](https://github.com/visaal1582892)
