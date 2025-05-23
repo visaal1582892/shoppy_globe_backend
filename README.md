@@ -1,4 +1,4 @@
- **Shoppy Globe Backend**.
+ **Shoppy Globe Backend**
 
 
 ```markdown
