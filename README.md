@@ -1,6 +1,5 @@
-Based on the server file you shared, here is a `README.md` file tailored to your current project setup for **Shoppy Globe Backend**.
+ **Shoppy Globe Backend**.
 
----
 
 ```markdown
 # 🛒 Shoppy Globe Backend
