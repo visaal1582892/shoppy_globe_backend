@@ -1,7 +1,5 @@
  **Shoppy Globe Backend**
 
-
-```markdown
 # 🛒 Shoppy Globe Backend
 
 This is the backend server for **Shoppy Globe**, a mock e-commerce platform. It provides RESTful APIs for user authentication, product listing, and cart management. This project uses **Node.js**, **Express**, **MongoDB**, and **JWT** for secure access.
