@@ -213,6 +213,6 @@ This project is licensed under the **MIT License**.
 
 ## ✍️ Author
 
-Made with 💻 by Rohit Varma Datla
-Gmail: [visaal1582892@gmail.com](API_TEST_PHOTOS/visaal1582892@gmail.com)
+Made with 💻 by Rohit Varma Datla, 
+Gmail: visaal1582892@gmail.com,
 Github: [visaal1582892](API_TEST_PHOTOS/https://github.com/visaal1582892)
