@@ -1,0 +1,27 @@
+{
+  "name": "shoppy_globe_backend",
+  "version": "1.0.0",
+  "description": "This is Backend part of Shoppy Globe, E-Commerce Application which includes getting all products from mongodb, getting single product details from mongodb, add, update and delete products from User Cart. The Cart Functionality will be protected By Authorization Middlewares such that only logged In users can access their cart. Also Implememted register, login and logout functionalities.",
+  "keywords": [
+    "E-Commerce",
+    "Shoppy",
+    "Globe",
+    "Cart",
+    "Products"
+  ],
+  "license": "ISC",
+  "author": "Rohit Varma Datla",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
